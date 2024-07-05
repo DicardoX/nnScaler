@@ -1,0 +1,6 @@
+numpy>=1.23.0
+matplotlib
+more-itertools
+dill
+# torch>=1.13,<2.1
+torch>=1.13,<=2.4
